@@ -7,24 +7,23 @@ This is a simple web-based calculator built using HTML, CSS, and JavaScript. It 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Installation
 
 No special installation is required for this project. Simply clone the repository and open the `index.html` file in your browser.
 
 ## Usage
-Enter numbers using the calculator interface.
-Click the operator buttons (+, -, *, /) to perform arithmetic operations.
-Click = to see the result of the calculation.
-Use the C button to clear the current input.
+- Enter numbers using the calculator interface.
+- Click the operator buttons (+, -, *, /) to perform arithmetic operations.
+- Click = to see the result of the calculation.
+- Use the C button to clear the current input.
 
 ## Features
-Addition
-Subtraction
-Multiplication
-Division
-Clear function to reset the calculator display
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- Clear function to reset the calculator display
+
+  
 
